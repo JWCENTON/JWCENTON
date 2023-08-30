@@ -2,9 +2,11 @@
 
 - 👋 I’m @jacekwalaszek
 - 👀 I’m interested in C#, .NET
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, SQL, C#, .NET
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, REACT, SQL, C#, .NET
 - 💞️ I’m looking to collaborate on anything to do with C#, .NET
 - 📫 How to reach me: w.jacek99@gmail.com
+- 🌱 My Codewars link and current progress can be found at https://www.codewars.com/users/jwalaszek
+![Codewars](https://github.com/JWCENTON/JWCENTON/assets/102509872/75877582-3b54-4e47-8f97-02db8a1113ad)
 
 <!---
 jacekwalaszek/jacekwalaszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
