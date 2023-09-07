@@ -7,7 +7,7 @@
 - 📫 How to reach me: w.jacek99@gmail.com
 - 🌱 My Codewars link and current progress can be found at https://www.codewars.com/users/jwalaszek
 
-![Codewars](https://github.com/JWCENTON/JWCENTON/assets/102509872/75877582-3b54-4e47-8f97-02db8a1113ad)
+![Codewars](https://github.com/JWCENTON/JWCENTON/assets/102509872/a6c47ada-c241-4ca6-8337-272bcdf0d2ca)
 
 With my ongoing commitment to expand my knowledge and master various technologies, including C#, .NET, and the wide array of languages I am currently learning, I am poised to contribute effectively to multidisciplinary projects that demand a holistic understanding of both security and development domains.
 <!---
