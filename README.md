@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 👋 I’m @jacekwalaszek
 - 👀 I’m interested in C#, .NET
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, REACT, SQL, C#, .NET
 - 💞️ I’m looking to collaborate on anything to do with C#, .NET
 - 📫 How to reach me: w.jacek99@gmail.com
 - 🌱 My Codewars link and current progress can be found at https://www.codewars.com/users/jwalaszek
